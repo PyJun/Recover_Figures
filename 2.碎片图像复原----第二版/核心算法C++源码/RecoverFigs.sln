@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecoverFigs", "RecoverFigs\RecoverFigs.vcxproj", "{DF2F25EE-7EFB-41BC-A3EC-FD73CCF93615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF2F25EE-7EFB-41BC-A3EC-FD73CCF93615}.Debug|x64.ActiveCfg = Debug|x64
+		{DF2F25EE-7EFB-41BC-A3EC-FD73CCF93615}.Debug|x64.Build.0 = Debug|x64
+		{DF2F25EE-7EFB-41BC-A3EC-FD73CCF93615}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF2F25EE-7EFB-41BC-A3EC-FD73CCF93615}.Debug|x86.Build.0 = Debug|Win32
+		{DF2F25EE-7EFB-41BC-A3EC-FD73CCF93615}.Release|x64.ActiveCfg = Release|x64
+		{DF2F25EE-7EFB-41BC-A3EC-FD73CCF93615}.Release|x64.Build.0 = Release|x64
+		{DF2F25EE-7EFB-41BC-A3EC-FD73CCF93615}.Release|x86.ActiveCfg = Release|Win32
+		{DF2F25EE-7EFB-41BC-A3EC-FD73CCF93615}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7FBBADB-C168-4C11-A26C-80A5272C0C71}
+	EndGlobalSection
+EndGlobal
